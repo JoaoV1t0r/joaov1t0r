@@ -14,6 +14,6 @@
   <img align="center" height="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-<div>
-  ![Snake animation](https://github.com/joaoV1t0r/joaoV1t0r/blob/output/github-contribution-grid-snake.svg)
-</div>
+<!-- <div style="display: inline_block"><br>
+  ![Snake animation](https://github.com/joaov1t0r/joaov1t0r/blob/output/github-contribution-grid-snake.svg)
+</div> -->
