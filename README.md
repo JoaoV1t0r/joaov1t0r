@@ -5,7 +5,7 @@
     <a href="mailto:joaovitor.silva2pereira@gmail.com?subject=GitHub Contact">
       <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/luis-filipe-9806a014b/">
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-silva-3620b6203/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
